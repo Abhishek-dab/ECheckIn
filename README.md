@@ -8,9 +8,15 @@ If there is a session going on and the orgainer wants to take the attendance of 
 
 ### Objectives:
 
+
 ### Use Cases:
+* Classes where attendance is captured such that no proxys are given for the students as the QR codes generated are unique.
+* Wedding to see people attending
+* Apartments and buildings where outsiders have to scan to gain entry
 
 ### Future Scope:
+* To make a web interface which can be access by the orgainser to see the details of the atendee.
+* To automatically generate new QR codes when a user scans it instead of organisers to generate it.
 
 ### Images:
 
